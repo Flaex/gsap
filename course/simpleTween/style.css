@@ -1,0 +1,26 @@
+body {
+   display: flex;
+   justify-content: center;
+   align-items: center ;
+   height: 100vh;
+}
+
+.circle {
+   background-color: orangered;
+   height: 150px;
+   width: 150px;
+   border-radius: 50%;
+}
+
+.square {
+   background-color: forestgreen;
+   height: 150px;
+   width: 150px;
+}
+
+#rectangle {
+   background-color: skyblue;
+   height: 50px;
+   width: 150px;
+
+}
