@@ -94,5 +94,3 @@ progress.onclick = function () {
 /* TweenMax.fromTo('.circle', 1, { x: -100, scale: 0 }, { x: 100, scale: 1.5 }); */
 
 TweenMax.staggerFromTo('.triangle', 1, { y: 200, x: 200 }, { y: -50, x: -50 }, 0.2);
-
-
