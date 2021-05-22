@@ -44,7 +44,7 @@ function init() {
         .from('.bcg', { duration: 2, y: '-30%' }, 0)
         ; */
 
-        // Pin effect
+        /* // Pin effect
         gsap.to(
         [
             '#intro h1',
@@ -60,9 +60,9 @@ function init() {
                 scrub: true,
                 markers: true
             }
-        })
+        }) */
 
-        /* //Triggering multiples sections
+        //Triggering multiples sections
         const projects = document.querySelectorAll('.project');
 
         projects.forEach(project => {
@@ -80,7 +80,7 @@ function init() {
 
                 }
             })
-        }) */
+        })
 
         
         
